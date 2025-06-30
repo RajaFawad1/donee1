@@ -1,0 +1,2 @@
+C:/Users/Shahzaib Laptops/Downloads/demandium/demandium/android/app/.cxx/RelWithDebInfo/4785x3a4/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Shahzaib Laptops/Downloads/demandium/demandium/android/app/.cxx/RelWithDebInfo/4785x3a4/x86_64/CMakeFiles/rebuild_cache.dir
